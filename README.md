@@ -20,24 +20,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_at_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_at_30" height="30" width="40" /></a>
-            
-<a href="https://linkedin.com/in/akash thakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash thakkar" height="30" width="40" /></a>
-            
-<a href="https://kaggle.com/akash3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash3010" height="30" width="40" /></a>
-            
+<a href="https://twitter.com/_at_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_at_30" height="30" width="40" /></a>            
+<a href="https://linkedin.com/in/akash thakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash thakkar" height="30" width="40" /></a>            
+<a href="https://kaggle.com/akash3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akash3010" height="30" width="40" /></a>            
 <a href="https://fb.com/akasht30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akasht30" height="30" width="40" /></a>
-            
 <a href="https://instagram.com/aakash.css" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.cpp" height="30" width="40" /></a>
-            
 <a href="https://www.codechef.com/users/srmcse_335" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_335" height="30" width="40" /></a>
-            
 <a href="https://www.hackerrank.com/@th1444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@th1444" height="30" width="40" /></a>
-            
 <a href="https://www.leetcode.com/_akash30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_akash30_" height="30" width="40" /></a>
-            
 <a href="https://www.hackerearth.com/@akashthakkar931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akashthakkar931" height="30" width="40" /></a>
-            
 </p>
 
 <h3 align="left">My Tech Stack</h3>
