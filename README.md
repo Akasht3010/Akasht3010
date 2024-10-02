@@ -23,6 +23,6 @@ I'm a final-year college student passionate about **web development** and consta
 ![Anime GIF](https://media.giphy.com/media/13k4VSc3ngLPUY/giphy.gif)
 
 ### 📫 How to Reach Me
-- Feel free to connect: [LinkedIn](https://www.linkedin.com/in/akash-thakkar/) or shoot me a message on [Twitter](https://twitter.com/your_handle).
+- Feel free to connect: [LinkedIn](https://www.linkedin.com/in/akash3010/) or shoot me a message on [Twitter](https://x.com/_at_30).
 
 Thanks for stopping by! Have an awesome day! 😊
