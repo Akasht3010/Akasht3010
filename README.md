@@ -13,7 +13,7 @@ I'm a final-year college student passionate about **web development** and consta
 - **Tools:** Git, VS Code, AWS
 
 ### 🎯 Goals
-- Complete ongoing web development projects
+- To explore about swift and to do iOS development
 - Learn more about full-stack development
 
 ### ⚡ Fun Facts
