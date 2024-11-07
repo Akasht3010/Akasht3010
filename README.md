@@ -9,8 +9,8 @@ I'm a final-year college student passionate about **web development** and consta
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, VS Code
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, VS Code, AWS
 
 ### 🎯 Goals
 - Complete ongoing web development projects
