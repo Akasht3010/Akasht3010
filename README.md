@@ -8,7 +8,7 @@ I'm a final-year college student passionate about **web development** and consta
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, PHP
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VS Code, AWS
 
